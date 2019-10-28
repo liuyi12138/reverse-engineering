@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572251739 source:c:\users\liuyi\desktop\injectdll\main.cpp
+	<windows.h>
+	<stdio.h>
+	<Tlhelp32.h>
+

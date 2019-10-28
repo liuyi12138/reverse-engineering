@@ -1,0 +1,6 @@
+EXPORTS
+    _Z14HookedReadFilePvS_mPmP11_OVERLAPPED@20 @1
+    _Z15HookedWriteFilePvPKvmPmP11_OVERLAPPED@20 @2
+    _Z7HookIATPKcPFivES2_ @3
+    g_readProc @4 DATA
+    g_writeProc @5 DATA
